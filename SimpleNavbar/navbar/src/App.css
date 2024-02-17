@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-background {
+  width: 100wh;
+  height: 100px;
+}
+
+header{
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5rem;
+  background-color: forestgreen;
+}
+
+.nav-logo{
+
+}
+
+.nav-menu{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
